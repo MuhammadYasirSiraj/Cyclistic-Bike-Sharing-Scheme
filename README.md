@@ -15,3 +15,5 @@ Cyclistic’s marketing strategy was focusing on building general awareness and 
 Cyclistic’s finance analysts have highlighted that casual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno, the marketing director, realized that instead of growing more customers we should focus on converting casual riders to members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
 Data Analyst needs to be working for Cyclistic in the marketing analytics team by following the six stages of the Data Analysis process: Ask, Prepare, Process, Analyze, Share, and Act to result in a structure that makes decision-making and problem-solving easier.
+
+**Output File:** https://drive.google.com/file/d/1byOFh3q21HPFIdIxRwZpSJeVwLhDaTKp/view?usp=sharing
